@@ -36,7 +36,7 @@
   <img align="center" alt="Buiu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Buiu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Buiu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750514096696197250/962619492167479296/buiu.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750514096696197250/962636469665689660/buiu_gif_saleiro.gif">
 </div>
   
   ##
