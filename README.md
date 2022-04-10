@@ -1,6 +1,6 @@
 ### Olá! Me chamo Carlos, Prazer! 👋
 
-- 🌐 Hoje trabalho como suporte de TI   |
+- 🌐 Hoje trabalho como suporte de TI
 - 🌱 Estudando Front-End
 - 💻 Entusiasta em Tecnologia
 
