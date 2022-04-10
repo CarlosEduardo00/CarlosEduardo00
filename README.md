@@ -29,4 +29,4 @@
   
   ##
   
-  
+  ![Snake animation](https://github.com/CarlosEduardo00/CarlosEduardo00/blob/output/github-contribution-grid-snake.svg)
