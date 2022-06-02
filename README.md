@@ -1,7 +1,7 @@
 ### Olá! Me chamo Carlos, Prazer! 👋
 
-- 🌐 Hoje trabalho como suporte de TI
-- 🌱 Estudando Front-End
+- 🎮 Amante de Games
+- 🌱 Estudando Front-End e SQL
 - 💻 Entusiasta em Tecnologia
 
                                          ╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═╩═╦═
