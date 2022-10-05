@@ -1,7 +1,7 @@
 ### Olá! Me chamo Carlos, Prazer! 👋
 
 - 🌱 Estudando Front-End e SQL
-- 💻 Trabalhando como Estagiário Full Stack WEB
+- 💻 Trabalhando como Programador Web Full Stack
 - 🎮 Entusiasta de Games
 
 
