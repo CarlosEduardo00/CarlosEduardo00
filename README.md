@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Carlos.;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Carlos.;Also+known+as+Buiu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
 
 🌱 - I'm studying systems analysis and development.
@@ -39,7 +39,7 @@
   <img align="center" alt="Buiu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750514096696197250/962636469665689660/buiu_gif_saleiro.gif">
 </div>
-  
+  <br />
 <div> 
   <a href="https://www.youtube.com/channel/UCYF3sregAil3V4dDkZ9EQ5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/buiux/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
