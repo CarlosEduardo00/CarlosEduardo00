@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Carlos.;Also+known+as+Buiu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+
 🌱 - I'm studying systems analysis and development.
 
 💻 - I'm currently working at a company as a Web Developer using Javascript, HTML/CSS and MySQL
