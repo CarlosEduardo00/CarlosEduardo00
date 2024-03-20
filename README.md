@@ -4,16 +4,17 @@
 
 🌱 - I'm studying systems analysis and development.
 
-💻 - I'm currently working at a company as a Web Developer using Javascript, HTML/CSS and MySQL
+💻 - I'm currently working at a company as a QA and Support Analyst using Java, Selenium and PostgreeSQL
 
-☕ - For now, I'm focused on learning React.js e Node.js
+☕ - For now, I'm focused on learning Java and SpringTools
 
 🎮 - In my spare time, I'm focused on playing my favorite game.
 
   <div style="display: inline_block"><br>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"     alt="Javascript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/java.png" alt="Java"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT"/></code> 
   </div>
