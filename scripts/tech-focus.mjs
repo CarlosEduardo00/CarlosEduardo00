@@ -7,12 +7,21 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises'
 const root = new URL('../', import.meta.url)
 const cfg = JSON.parse(await readFile(new URL('tech-focus.json', root), 'utf8'))
 
-// Ícones do Simple Icons (viewBox 24x24); só o path, pintado de branco
+// Ícones do Simple Icons (viewBox 24x24); só o path, pintado de branco.
+// Fonte principal: pacote oficial no jsDelivr (o cdn.simpleicons.org bloqueia o GitHub Actions).
+const SOURCES = [
+  (slug) => `https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/${slug}.svg`,
+  (slug) => `https://cdn.simpleicons.org/${slug}`,
+]
 async function iconPath(slug) {
-  const svg = await (await fetch(`https://cdn.simpleicons.org/${slug}`)).text()
-  const d = svg.match(/<path d="([^"]+)"/)
-  if (!d) throw new Error(`Ícone não encontrado: ${slug}`)
-  return d[1]
+  for (const src of SOURCES) {
+    try {
+      const res = await fetch(src(slug), { headers: { 'User-Agent': 'tech-focus-readme' } })
+      const d = res.ok && (await res.text()).match(/<path d="([^"]+)"/)
+      if (d) return d[1]
+    } catch {}
+  }
+  throw new Error(`Ícone não encontrado: ${slug}`)
 }
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')

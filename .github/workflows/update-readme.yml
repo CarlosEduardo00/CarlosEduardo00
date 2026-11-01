@@ -20,7 +20,8 @@ jobs:
         with:
           node-version: 20
       - name: Gerar gráfico de tecnologias em foco
-        run: node scripts/tech-focus.mjs
+        # Se as fontes de ícones falharem, mantém o gráfico já commitado
+        run: node scripts/tech-focus.mjs || echo "::warning::Gráfico não regenerado; mantendo o atual"
       - name: Atualizar projetos recentes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
