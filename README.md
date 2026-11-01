@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:262626&height=180&section=header&text=Carlos%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20%C2%B7%20Full-stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Silva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:262626&height=180&section=header&text=Carlos%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Silva" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Carlos+%F0%9F%91%8B;Pode+me+chamar+de+Carlinhos;Java+%2B+Spring+Boot+no+back-end;Python+para+dados+e+automa%C3%A7%C3%A3o;QA%3A+se+quebra%2C+eu+acho" alt="Olá! Eu sou o Carlos, pode me chamar de Carlinhos" /></a>
 
@@ -16,9 +16,10 @@
 
 ## Sobre mim
 
-- Trabalho como **Analista de QA**, com **Java**, **Selenium** e **PostgreSQL**
+- Trabalho como **Analista de QA e Integrações**, com **Java**, **Selenium** e **PostgreSQL**
 - Formado em **Análise e Desenvolvimento de Sistemas**
-- Hoje meu foco é **full-stack**: **Spring Boot** no back-end, **React + TypeScript** no front e **Python** para dados e automação
+- Fui **professor de programação** no ensino técnico, ensinando **banco de dados**, **front-end** e **back-end**
+- Desenvolvo com **Java + Spring Boot** e uso **Python** para dados e automação
 - Transformo games em projeto: enciclopédia de Zelda, wiki de MU Online e um monitor desktop com visão computacional
 
 ## Tecnologias em foco
