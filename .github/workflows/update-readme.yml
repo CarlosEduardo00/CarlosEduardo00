@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/**, .github/workflows/update-readme.yml]
+    paths: [scripts/**, tech-focus.json, .github/workflows/update-readme.yml]
 
 permissions:
   contents: write
@@ -19,16 +19,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Gerar seções automáticas
+      - name: Gerar gráfico de tecnologias em foco
+        run: node scripts/tech-focus.mjs
+      - name: Atualizar projetos recentes
         env:
-          # Opcional: crie o secret README_PAT (token com acesso de leitura aos seus repositórios)
-          # para incluir os privados no cálculo de linguagens. Sem ele, usa só os públicos.
-          GH_TOKEN: ${{ secrets.README_PAT || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-readme.mjs
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/tech-focus.svg
           git diff --cached --quiet || git commit -m "chore: atualiza README automaticamente"
           git push

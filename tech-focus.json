@@ -1,0 +1,23 @@
+{
+  "title": "TECNOLOGIAS EM FOCO",
+  "subtitle": "ordem de senioridade",
+  "main": [
+    { "name": "Java · Spring Boot", "detail": "APIs REST, JPA, testes automatizados", "level": "Avançado", "value": 95, "icon": "openjdk" },
+    { "name": "Python", "detail": "Scraping, automação e visão computacional", "level": "Avançado", "value": 84, "icon": "python" },
+    { "name": "JavaScript", "detail": "React, TypeScript e Node.js", "level": "Intermediário", "value": 72, "icon": "javascript" },
+    { "name": "Astro", "detail": "Sites estáticos e APIs no Cloudflare", "level": "Intermediário", "value": 60, "icon": "astro" }
+  ],
+  "othersTitle": "TAMBÉM NO DIA A DIA",
+  "others": [
+    { "name": "Claude AI", "icon": "claude" },
+    { "name": "Docker", "icon": "docker" },
+    { "name": "Cloudflare", "icon": "cloudflare" },
+    { "name": "PostgreSQL", "icon": "postgresql" },
+    { "name": "Selenium", "icon": "selenium" },
+    { "name": "React", "icon": "react" },
+    { "name": "TypeScript", "icon": "typescript" },
+    { "name": "SQLite", "icon": "sqlite" },
+    { "name": "Git", "icon": "git" },
+    { "name": "GitHub Actions", "icon": "githubactions" }
+  ]
+}
