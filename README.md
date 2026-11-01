@@ -16,10 +16,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🧪 Trabalho como **Analista de QA e Suporte**, com **Java**, **Selenium** e **PostgreSQL**
-- 🎓 Curso **Análise e Desenvolvimento de Sistemas**
+- 🧪 Trabalho como **Analista de QA**, com **Java**, **Selenium** e **PostgreSQL**
+- 🎓 Formado **Análise e Desenvolvimento de Sistemas**
 - 🚀 Hoje meu foco é **full-stack**: **Spring Boot** no back-end, **React + TypeScript** no front e **Python** para dados e automação
-- 🤖 Uso desenvolvimento assistido por IA (Claude Code) para planejar, testar e entregar mais rápido
 - 🎮 Transformo games em projeto: enciclopédia de Zelda, wiki de MU Online e um monitor desktop com visão computacional
 
 ## 🔥 Projetos em destaque
