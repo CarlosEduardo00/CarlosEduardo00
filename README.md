@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:262626&height=180&section=header&text=Carlos%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20%C2%B7%20Full-stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Silva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:262626&height=180&section=header&text=Carlos%20Eduardo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20%C2%B7%20Full-stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Eduardo" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Carlos+%F0%9F%91%8B;Pode+me+chamar+de+Carlinhos;Java+%2B+Spring+Boot+no+back-end;Python+para+dados+e+automa%C3%A7%C3%A3o;QA%3A+se+quebra%2C+eu+acho" alt="Olá! Eu sou o Carlos, pode me chamar de Carlinhos" /></a>
 
@@ -78,10 +78,9 @@
   <img src="https://streak-stats.demolab.com?user=CarlosEduardo00&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosEduardo00/CarlosEduardo00/output/github-snake-dark.svg" />
-  <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/CarlosEduardo00/CarlosEduardo00/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="Galaga destruindo as contribuições do último ano" src="https://raw.githubusercontent.com/CarlosEduardo00/CarlosEduardo00/output/galaga-contribution-graph-dark.svg" width="100%" />
+</p>
 
 <div align="center">
 

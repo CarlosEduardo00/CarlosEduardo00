@@ -19,6 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: galaga
+      - name: Deixar em preto e branco
+        run: bash scripts/galaga-bw.sh dist/*.svg
       - name: Publicar no ramo output
         uses: crazy-max/ghaction-github-pages@v4
         with:
