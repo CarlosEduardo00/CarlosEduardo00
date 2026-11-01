@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Carlos+%F0%9F%91%8B;Pode+me+chamar+de+Carlinhos;Java+%2B+Spring+Boot+no+back-end;Python+para+dados+e+automa%C3%A7%C3%A3o;QA%3A+se+quebra%2C+eu+acho" alt="Olá! Eu sou o Carlos, pode me chamar de Carlinhos" /></a>
 
-<a href="https://portfolio-rho-pearl.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ffffff?style=for-the-badge&logo=rocket&logoColor=000000" alt="Portfólio" /></a>
+<a href="https://carlosesilva.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ffffff?style=for-the-badge&logo=rocket&logoColor=000000" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/carlos-silva-49620815b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:carloscontato2000@hotmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://discordapp.com/users/339222450497781760"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -22,7 +22,7 @@
 - Fui **professor de programação** no ensino técnico, ensinando **banco de dados**, **front-end** e **back-end**
 - Desenvolvo com **Java + Spring Boot** e uso **Python** para dados e automação
 - Transformo games em projeto: enciclopédia de Zelda, wiki de MU Online e um monitor desktop com visão computacional
-- 🚀 Conheça meu portfólio: **[portfolio-rho-pearl.vercel.app](https://portfolio-rho-pearl.vercel.app)**
+- 🚀 Conheça meu portfólio: **[carlosesilva.com.br](https://carlosesilva.com.br)**
 
 ## Tecnologias em foco
 
