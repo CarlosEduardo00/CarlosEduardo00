@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:262626&height=180&section=header&text=Carlos%20Eduardo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20%C2%B7%20Full-stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Silva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:262626&height=180&section=header&text=Carlos%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20%C2%B7%20Full-stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Silva" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Carlos+%F0%9F%91%8B;Pode+me+chamar+de+Carlinhos;Java+%2B+Spring+Boot+no+back-end;Python+para+dados+e+automa%C3%A7%C3%A3o;QA%3A+se+quebra%2C+eu+acho" alt="Olá! Eu sou o Carlos, pode me chamar de Carlinhos" /></a>
 
