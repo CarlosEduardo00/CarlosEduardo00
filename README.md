@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:ec4899&height=180&section=header&text=Carlos%20Eduardo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%C2%B7%20QA%20%C2%B7%20Full-stack%20em%20constru%C3%A7%C3%A3o&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Carlos Eduardo" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Carlos%2C+mas+pode+chamar+de+Buiu+%F0%9F%91%8B;Java+%2B+Spring+Boot+no+back-end;React+%2B+TypeScript+no+front-end;Python+para+scraping+e+automa%C3%A7%C3%A3o;QA+de+cora%C3%A7%C3%A3o%3A+se+quebra%2C+eu+acho" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Ol%C3%A1!+Eu+sou+o+Carlos%2C+mas+pode+chamar+de+Carlinhos+%F0%9F%91%8B;Java+%2B+Spring+Boot+no+back-end;React+%2B+TypeScript+no+front-end;Python+para+scraping+e+automa%C3%A7%C3%A3o;QA+de+cora%C3%A7%C3%A3o%3A+se+quebra%2C+eu+acho" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/carlos-silva-49620815b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:carloscontato2000@hotmail.com"><img src="https://img.shields.io/badge/E--mail-333?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
